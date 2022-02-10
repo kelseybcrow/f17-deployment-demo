@@ -1,7 +1,7 @@
 * {
-    padding:0px;
-    margin:0px;
-    box-sizing:border-box
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 
 body {
@@ -9,9 +9,9 @@ body {
 }
 
 h1 {
-    color: cornflowerblue;
+    color: chocolate;
 }
 
 p {
-    color:coral
+    color: darkgoldenrod;
 }
